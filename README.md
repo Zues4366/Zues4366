@@ -2,7 +2,7 @@
 <h2> Information Technology Projects </h2>
 <dl>
   <dt>Microsoft Azure</dt>
-  <dd>- Configure Active Directory in Azure</dd>
+  <dd>- <a href="https://github.com/Zues4366/Active-Directory">Configure Active Directory in Azure</dd>
   <dd>- Analyze Network Traffic using Azure VMs</dd>
   <dt>osTicket</dt>
   <dd>- osTicket: Installation</dd>
