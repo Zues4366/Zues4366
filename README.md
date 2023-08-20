@@ -5,7 +5,7 @@
   <dd>- <a href="https://github.com/Zues4366/Active-Directory"> Configure Active Directory in Azure</dd>
   <dt>osTicket</dt>
   <dd>- <a href="https://github.com/Zues4366/osticket-installation"> osTicket: Installation</dd>
-  <dd>- osTicket: Post-Installation Configuration</dd>
+  <dd>- <a href="https://github.com/Zues4366/osticket-post-installation"> osTicket: Post-Installation Configuration</dd>
   <dd>- osTicket: Lifecycle</dd>
 </dl>
   
