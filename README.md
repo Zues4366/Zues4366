@@ -2,9 +2,9 @@
 <h2> Information Technology Projects </h2>
 <dl>
   <dt>Microsoft Azure</dt>
-  <dd>- <a href="https://github.com/Zues4366/Active-Directory">Configure Active Directory in Azure</dd>
+  <dd>- <a href="https://github.com/Zues4366/Active-Directory"> Configure Active Directory in Azure</dd>
   <dt>osTicket</dt>
-  <dd>- osTicket: Installation</dd>
+  <dd>- <a href="https://github.com/Zues4366/osticket-installation"> osTicket: Installation</dd>
   <dd>- osTicket: Post-Installation Configuration</dd>
   <dd>- osTicket: Lifecycle</dd>
 </dl>
