@@ -10,7 +10,8 @@
 
 <h2> Simple Coding Projects </h2>
 <d1>
-  <dt>Tkinter/Python Game Center</dt>
+  <dt><a href="https://github.com/Zues4366/python-tkinter">Tkinter/Python Game Center</dt>
+  <dt><a href="https://github.com/Zues4366/Projects-Coding-and-Scripting">Simple Python Coding</dt>
 </d1>
   
   
