@@ -6,20 +6,14 @@
   <dt>osTicket</dt>
   <dd>- <a href="https://github.com/Zues4366/osticket-installation"> osTicket: Installation</dd>
   <dd>- <a href="https://github.com/Zues4366/osticket-post-installation"> osTicket: Post-Installation Configuration</dd>
-  <dd>- osTicket: Lifecycle</dd>
 </dl>
+
+<h2> Simple Coding Projects </h2>
+<d1>
+  <dt>Simple Python Dice Game</dt>
+  <dt>Tkinter/Python Game Center</dt>
+</d1>
   
-<!--
-**Zues4366/Zues4366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+  
