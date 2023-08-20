@@ -10,7 +10,6 @@
 
 <h2> Simple Coding Projects </h2>
 <d1>
-  <dt>Simple Python Dice Game</dt>
   <dt>Tkinter/Python Game Center</dt>
 </d1>
   
